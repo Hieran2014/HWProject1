@@ -12,4 +12,7 @@ public class HwClass1 {
 		System.out.println(a+b);
 	}
 
+	// added a comment
+
+
 }
