@@ -7,5 +7,9 @@ public class HwClass1 {
 		
 		System.out.println("Remote repository 1....");
 	}
+	
+	public void add(int a, int b) {
+		System.out.println(a+b);
+	}
 
 }
